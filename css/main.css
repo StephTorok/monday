@@ -1,6 +1,7 @@
 body {
-    background-color: indianred;
+    background-color: #ccc;
     font-family: sans-serif;
+    color: #333;
 }
 h1 {
     padding: 30px;
