@@ -1,7 +1,13 @@
 body {
-    background-color: indianred;
+    background-color: darkslategrey;
     font-family: sans-serif;
 }
 h1 {
     padding: 30px;
+    color: white;
+    font-size: 60px;
+}
+h2 {
+    padding-left: 30px;
+    color: lightgrey;
 }
